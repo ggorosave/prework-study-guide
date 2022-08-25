@@ -6,17 +6,10 @@
 header, 
 footer {
     width: 100%;
+    height: 120px;
     padding: 10px 0;
     background-color: #191970;
     color: white;
-}
-
-header {
-    height: 105px;
-}
-
-footer {
-    height: 30px;
 }
 
 h1,
