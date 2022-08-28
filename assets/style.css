@@ -46,3 +46,7 @@ p {
     border: 5px solid #2f4f4f;
     box-shadow: 5px 10px 10px #696969;
 }
+
+code {
+    color: rgba(18, 9, 139, 0.616);
+}
